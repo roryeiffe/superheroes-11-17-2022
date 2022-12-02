@@ -12,3 +12,11 @@
 1. Complete [Valid Sodoku](https://leetcode.com/problems/valid-sudoku/) challenge.
 2. Once you have a completed Valid Sodoku solution, work on [Sodoku Solver](https://leetcode.com/problems/sudoku-solver/) challenge.
 3. Push your code up to your repo that you've been using for these exercises.
+
+## 12/2 Exercises
+1. Keep working on Sudoku challenges.
+2. Work on Advent of Code Challenges.
+3. Work on Hibernate demo.
+	- Finish CRUD methods in the DAO
+	- Complete the Service layer
+	- Complete a CLI/Servlet layer that lets us interact with the program
