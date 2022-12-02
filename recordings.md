@@ -37,3 +37,7 @@ Passcode: cC!1=vFn
 12/1:
 https://revature.zoom.us/rec/share/fVU4RVRkxAKzaN3gBlgPwhn64VJPYRuwGE6AHe_qbREMcrN3qbdYI9IIXl1T4RY.uU3-Y1mUy2kBrKR4
 Passcode: !$t0xw7$
+
+12/2:
+https://revature.zoom.us/rec/share/u5N8Mz7vOly5oT7f6BvTew6GNN3NgwAbsaVgqKW84fpEeSwtdFChe29X5xe61Aqc.kuqyQx29iqGqyGoh
+Passcode: m%t7bj@s
