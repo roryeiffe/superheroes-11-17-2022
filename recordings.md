@@ -33,3 +33,7 @@ Passcode: Wd=UedC5
 11/30:
 https://revature.zoom.us/rec/share/uSUR-XT4VSUzYPzadod-dY0LqglSTjP6iaESaubzhrAYnroy2T_75rwvofrarJJm.DDZ4MRAn2dZBUbeH
 Passcode: cC!1=vFn
+
+12/1:
+https://revature.zoom.us/rec/share/fVU4RVRkxAKzaN3gBlgPwhn64VJPYRuwGE6AHe_qbREMcrN3qbdYI9IIXl1T4RY.uU3-Y1mUy2kBrKR4
+Passcode: !$t0xw7$
