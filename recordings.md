@@ -45,3 +45,7 @@ Passcode: m%t7bj@s
 12/5:
 https://revature.zoom.us/rec/share/LFI-kQB-hOaEEIpGmDapYdH7RMMZ0-PEXI3AJ7h5_1h2SCE8Leu9ZtlAFx8ZxRu7.o2yg5s6zxqEqm12R
 Passcode: &q1E1*+e
+
+12/06
+https://revature.zoom.us/rec/share/yGc1x9mD9ZW2rOaqbxW7ikHd5Lws4exT5UdppFRSDsfYHElUgxIldnFPkEg4xzLB.jx4U5RHUerbPopEm
+Passcode: hu%vT4*m
