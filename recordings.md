@@ -49,3 +49,7 @@ Passcode: &q1E1*+e
 12/06
 https://revature.zoom.us/rec/share/yGc1x9mD9ZW2rOaqbxW7ikHd5Lws4exT5UdppFRSDsfYHElUgxIldnFPkEg4xzLB.jx4U5RHUerbPopEm
 Passcode: hu%vT4*m
+
+12/07:
+https://revature.zoom.us/rec/share/yHPbJZ7TRBXu45-Kof49IyJDqkFx3HWuxSuETQJA6iXVyPiaYwtEkpUCmBioPjAS.5a91nMoB-XyGeZrG
+Passcode: 94c1!M5n
