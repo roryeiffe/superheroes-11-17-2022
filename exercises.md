@@ -20,3 +20,8 @@
 	- Finish CRUD methods in the DAO
 	- Complete the Service layer
 	- Complete a CLI/Servlet layer that lets us interact with the program
+
+## 12/8 Exercises
+1. Make a shape that gradually changes color depending on what button you press.
+2. Create a button that populates the page with various data from an API of your choosing. Organize the data in a table.
+3. Create a simple (or complex) game using the skills we learned today. ex: rock paper scissors, tic-tac-toe, connect-4.

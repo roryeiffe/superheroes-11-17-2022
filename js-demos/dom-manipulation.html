@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom Manipulation</title>
+
+    <style>
+        .off-screen {
+            margin-left: 110%;
+        }
+
+        .on-screen {
+            margin-left: 0%;
+            transition: 1s;
+            }
+    </style>
+</head>
+<body>
+    <h1>Hello (updated)</h1>
+    <button id = "btn-1">Press Me</button>
+
+    <button onclick = "onButtonClick()">Press Me 2</button>
+
+    <p id = "p-1">This text should change.</p>
+    <img width = "300px" id = "img-1" src= "" alt = "default"></div>
+
+    <button id = "btn-2">Remove</button>
+
+    <br />
+    <img id = "zoid" class = "off-screen classA classB" src = "https://static.wikia.nocookie.net/zoids/images/a/a5/LOLOL_Liger_Zero.jpg" alt = "zoid"/>
+    <br />
+    <button id = "btn-3">Show me the Zoid</button>
+
+    <h1>More exercises to work on:</h1>
+    <ul>
+        <li>Make a shape that gradually changes color depending on what button you press.</li>
+        <li>Create a button that populates the page with various data from an API of your choosing. Organize the data in a table.</li>
+        <li>Create a simple (or complex) game using the skills we learned today. ex: rock paper scissors, tic-tac-toe, connect-4.</li>
+    </ul>
+
+    <script>
+        // add an event listener, so we need to "retrieve" our button 
+        var btn1 = document.getElementById("btn-1");
+        var btn2 = document.getElementById("btn-2");
+        var btn3 = document.getElementById("btn-3");
+        btn1.addEventListener('click', onButtonClick);
+        btn2.addEventListener('click', removeElement);
+        btn3.addEventListener('click', showZoid);
+
+        function onButtonClick() {
+            console.log('Hello from script');
+            document.getElementById("p-1").innerText = "This is new text";
+            document.getElementById("img-1").setAttribute("src", "https://enablingdevices.com/wp-content/uploads/2017/11/HotCocoa.jpg");
+
+            // create elements programatically and then add them to the dom:
+            var element = document.createElement("h1");
+            element.innerText = "This is a header tag";
+            element.id = "p-2";
+            console.log(element);
+
+            // get the document body
+            var body = document.body;
+            // append the new element as a child of the body:
+            body.appendChild(element);
+        }
+
+        function removeElement() {
+            let body = document.body;
+            var pElement = document.getElementById("p-2");
+            console.log(pElement);
+            // remove the child from the body:
+            body.removeChild(pElement);
+            // alternatively, we can do this:
+            // pElement.remove();
+        }
+
+        function showZoid() {
+            let zoid = document.getElementById("zoid");
+            console.log(zoid.classList);
+            console.log(zoid.className);
+            zoid.className = "on-screen";
+        }
+
+    </script>
+    
+</body>
+</html>
