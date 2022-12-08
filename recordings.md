@@ -37,3 +37,19 @@ Passcode: cC!1=vFn
 12/1:
 https://revature.zoom.us/rec/share/fVU4RVRkxAKzaN3gBlgPwhn64VJPYRuwGE6AHe_qbREMcrN3qbdYI9IIXl1T4RY.uU3-Y1mUy2kBrKR4
 Passcode: !$t0xw7$
+
+12/2:
+https://revature.zoom.us/rec/share/u5N8Mz7vOly5oT7f6BvTew6GNN3NgwAbsaVgqKW84fpEeSwtdFChe29X5xe61Aqc.kuqyQx29iqGqyGoh
+Passcode: m%t7bj@s
+
+12/5:
+https://revature.zoom.us/rec/share/LFI-kQB-hOaEEIpGmDapYdH7RMMZ0-PEXI3AJ7h5_1h2SCE8Leu9ZtlAFx8ZxRu7.o2yg5s6zxqEqm12R
+Passcode: &q1E1*+e
+
+12/06
+https://revature.zoom.us/rec/share/yGc1x9mD9ZW2rOaqbxW7ikHd5Lws4exT5UdppFRSDsfYHElUgxIldnFPkEg4xzLB.jx4U5RHUerbPopEm
+Passcode: hu%vT4*m
+
+12/07:
+https://revature.zoom.us/rec/share/yHPbJZ7TRBXu45-Kof49IyJDqkFx3HWuxSuETQJA6iXVyPiaYwtEkpUCmBioPjAS.5a91nMoB-XyGeZrG
+Passcode: 94c1!M5n
