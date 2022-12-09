@@ -29,5 +29,5 @@
 ## 12/9 Exercises
 1. Fill out the "Alternating Letters" exercise under string-manipulation.
 2. Complete this Leetcode [challenge](https://leetcode.com/problems/valid-parentheses/). 
-3. Given a string, reverse every other word. For example, "
-```Somebody once told me" -> "Somebody ecno told em". ```
+3. Given a string, reverse every other word. For example,
+```"Somebody once told me" -> "Somebody ecno told em". ```
