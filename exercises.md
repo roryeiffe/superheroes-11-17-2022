@@ -31,3 +31,10 @@
 2. Complete this Leetcode [challenge](https://leetcode.com/problems/valid-parentheses/). 
 3. Given a string, reverse every other word. For example,
 ```"Somebody once told me" -> "Somebody ecno told em". ```
+
+## 12/12 Exercises
+1. Finish up any exercises from me that you haven't finished yet, including Advent of Code and Leetcode challenges.
+2. Work on these rest/spread operator [exercises](https://github.com/joinpursuit/web-curriculum/blob/master/lessons/es6/spread-operator/spread-operator-practice-exercises.md).
+3. Remember to keep all exercise work on a repository and make sure the link is shared with me.
+
+
