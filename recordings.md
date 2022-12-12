@@ -61,3 +61,7 @@ Passcode: nT7aDd?@
 12/09:
 https://revature.zoom.us/rec/share/SJzm8s4eXCvhNStKhpKwqbQUykrPdWFKUyvBxi9pKnERmG-km5ngSF55v5yBitLP.sbw8O-hpjPmcNaFd
 Passcode: 2JitIt%M
+
+12/12:
+https://revature.zoom.us/rec/share/uMIbHx72eAO2BFMewOSlrEnHv4dmcMTim2pBjs2P26we8ZfjHKlTtF2uhCqQ4T6D.BXkbZILYuvItRXtr
+Passcode: ^7CL.N$L
