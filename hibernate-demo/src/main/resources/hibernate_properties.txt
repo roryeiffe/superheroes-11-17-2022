@@ -1,0 +1,10 @@
+Put this in a file called hibernate.properties:
+(The "real" hibernate.properties is ignored because of *.properties in the .gitignore:
+
+hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+hibernate.connection.driver_class=org.postgresql.Driver
+hibernate.connection.url=jdbc:postgresql://localhost:5432/zoids
+hibernate.connection.username=postgres
+hibernate.connection.password=root
+hibernate.show_sql=true
+hibernate.hbm2ddl.auto=update
