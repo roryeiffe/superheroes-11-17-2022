@@ -65,3 +65,7 @@ Passcode: 2JitIt%M
 12/12:
 https://revature.zoom.us/rec/share/uMIbHx72eAO2BFMewOSlrEnHv4dmcMTim2pBjs2P26we8ZfjHKlTtF2uhCqQ4T6D.BXkbZILYuvItRXtr
 Passcode: ^7CL.N$L
+
+12/13:
+https://revature.zoom.us/rec/share/rZtbGAF7m4KKKBwfwdm07S5hU3nKViv0_KB9Kz4XViqDC9Lith39mYUFp7Frzxdo.JB1zxelwWxOmEcFF
+Passcode: R3Na56s@
