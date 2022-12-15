@@ -37,7 +37,7 @@ public class JwtRequestFilter extends OncePerRequestFilter {
 
         if(requestTokenHeader != null && requestTokenHeader.startsWith("Bearer ")) {
             // take the token from the header, stripping away the first 7 characters, trim just in case
-            jwtToken = requestTokenHeader.substring(7).trim();
+            jwtToken = requestTokenHeader.substring(7);
             try {
                 username = jwtTokenUtil.getUsernameFromToken(jwtToken);
             } catch(IllegalArgumentException e) {
@@ -59,7 +59,6 @@ public class JwtRequestFilter extends OncePerRequestFilter {
 
                 SecurityContextHolder.getContext().setAuthentication(usernamePasswordAuthenticationToken);
             }
-
         }
         filterChain.doFilter(request, response);
 

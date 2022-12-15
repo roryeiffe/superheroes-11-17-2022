@@ -69,3 +69,7 @@ Passcode: ^7CL.N$L
 12/13:
 https://revature.zoom.us/rec/share/rZtbGAF7m4KKKBwfwdm07S5hU3nKViv0_KB9Kz4XViqDC9Lith39mYUFp7Frzxdo.JB1zxelwWxOmEcFF
 Passcode: R3Na56s@
+
+12/15:
+https://revature.zoom.us/rec/share/SjGuZg5pVBlGjwUqAOQQE2AiNo9p6jRKyil0qrTx2spk7nBI-jhRanBDnWLnvSNI.RrYj9YZN4stcuIAe
+Passcode: eS$5W16H
