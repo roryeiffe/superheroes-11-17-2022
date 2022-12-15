@@ -38,3 +38,7 @@
 3. Remember to keep all exercise work on a repository and make sure the link is shared with me.
 
 
+## 12/15 Exercises
+1. Get Spring Security demo working on your computer. Fix the issue that we encountered in class.
+2. Keep working on Advent of Code or Leet Code challenges. 
+3. I will check in with you all on 12/16/2022.
