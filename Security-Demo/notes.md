@@ -39,3 +39,7 @@
     1. Tag should be "Authorization"
     2. Value should be "Bearer ${token}"
     3. Send the request, you should get the Hello message
+
+## Exercise
+1. Get the code on your own computer (by cloning or following along with the video).
+2. Find out what isn't working with authenticating the requests.
