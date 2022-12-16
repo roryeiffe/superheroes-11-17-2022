@@ -1,0 +1,33 @@
+## Our First Haskell Commands
+- http://learnyouahaskell.com/chapters 
+- https://www.tutorialspoint.com/compile_haskell_online.php
+- Type ghci to enter the Haskell terminal
+    - We can do simple arithemetic such as 4 + 4
+    - We can also do boolean operators like True && False
+- To call functions in Haskell, we type the name of the function and separate the arguments by spaces
+    - ex: succ 5
+    - max 4 5
+- Function priorities
+    - succ 8 * 9 gives us 81 because it first evaluates succ 8 to get 9 and then multiplies by 9 to get 81
+    - succ (8*9) gives us 73
+- On our local computer, we can type ghci name_of_file to load those functions. 
+    - Once in the terminal, we can use those functions
+- Lists
+    - [1,2,3] ++ [4,5,6] will give us [1,2,3,4,5,6]
+    - 1:[2,3,4] will give us [1,2,3,4]
+    - These operators work on strings as well because strings are lists of characters
+    - Functions: sum, product, drop, take, reverse
+    - List Comprehensions
+        - [x * 2 | x <- [1..10]] will multiple the numbers 1 through 10 by 2
+        - [x * 2 | x <- [1..100], x * 2`mod` 7 == 0] will give us all even numbers from 1 through 200 divisible by 7
+- Tuples
+    - Like lists, tuples can store multiple values
+    - Unlike lists, tuples can store different types
+    - Furthermore, tuples can help us achieve consistency in our data structures
+        - [(1,2) ,(3,4), (5,6,7)] will give us an error because the tuple types don't match
+        - [[1,2], [3,4], [5,6,7]] would not give us an error
+    - fst will give us the first element of a tuple
+    - snd will give us the second element of a tuple
+    - zip takes 2 lists and "zips" them together using tuples
+- Types
+    - :t value will give us the type of the value
