@@ -77,3 +77,7 @@ Passcode: Kq9j&!@V
 12/15:
 https://revature.zoom.us/rec/share/SjGuZg5pVBlGjwUqAOQQE2AiNo9p6jRKyil0qrTx2spk7nBI-jhRanBDnWLnvSNI.RrYj9YZN4stcuIAe
 Passcode: eS$5W16H
+
+12/16:
+https://revature.zoom.us/rec/share/vqD5Bl1T6Sb3u6ge46ULQ9AGhwwSgY_nrEhkEiV7Mlq1587gLQX633pSQ3vi6lZ0.ubh9pUvedHfGBME2
+Passcode: p?52KUAp
